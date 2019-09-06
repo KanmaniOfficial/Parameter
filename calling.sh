@@ -1,1 +1,1 @@
-echo $name
+echo $Name
